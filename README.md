@@ -1,7 +1,7 @@
 # AI-pro.
 Lock in.
 
-**Day 1**
+**Day 1**\n
 *Crash course on Jupyter Notebook*
 learning <a neural networks> 
 **First project** Handwritten Digit Recognition (MNIST Dataset) 
